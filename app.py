@@ -7,7 +7,6 @@ import sqlite3
 from datetime import datetime, timedelta
 from sklearn.linear_model import LinearRegression
 from sklearn.ensemble import IsolationForest
-import json
 import base64
 import io
 
